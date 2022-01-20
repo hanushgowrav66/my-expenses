@@ -2,7 +2,7 @@
   "name": "myexpenses",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hanushgowrav66/my-expenses.github.io",
+  "homepage": "https://hanushgowrav66.github.io/my-expenses/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
