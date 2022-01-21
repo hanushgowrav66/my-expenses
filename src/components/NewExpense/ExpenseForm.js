@@ -5,6 +5,7 @@ const ExpenseForm = (props) => {
   const [enteredTitle, setEnteredTitle] = useState("");
   const [enteredAmount, setEnteredAmount] = useState("");
   const [enteredDate, setEnteredDate] = useState("");
+  // Instead of multiple useState we can use using function as shown in bellow
   //   const [userInput, setUserInput] = useState({
   //     enteredTtile: " ",
   //     enteredAmount: " ",
@@ -40,7 +41,7 @@ const ExpenseForm = (props) => {
 
     const expenseData = {
       title: enteredTitle,
-      amount: enteredAmount,
+      amount: +enteredAmount,
       date: new Date(enteredDate),
     };
 
@@ -82,6 +83,9 @@ const ExpenseForm = (props) => {
           />
         </div>
         <div className="new-expense-actions">
+          <button type="button" onClick={props.onCancel}>
+            Cancel
+          </button>
           <button type="submit">Add Expense</button>
         </div>
       </div>
