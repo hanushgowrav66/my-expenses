@@ -1,0 +1,65 @@
+.div-center {
+  color: #14767e;
+  background: #fffbf8;
+  width: 400px;
+  height: 350px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  padding: 1em 2em;
+  border: 3px solid #14767e;
+  border-radius: 15px;
+  display: table;
+}
+h2 {
+  text-shadow: 2px 2px 8px #79a8a8;
+}
+div.content {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.login-button {
+  background-color: #65b8c0;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px;
+  margin: 8px 0;
+  border: 1px solid;
+  border-radius: 5px;
+  cursor: pointer;
+  /* width: 15%; */
+}
+
+.login-button:hover {
+  background: #14767e;
+}
+
+.float-right {
+  float: right;
+}
+
+hr:not([size]) {
+  height: 3px;
+  color: #14767e;
+}
+
+input[type="email"],
+input[type="password"] {
+  padding: 12px 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #14767e;
+  box-sizing: border-box;
+}
+
+label {
+  font-size: larger;
+  font-weight: 500px;
+}
