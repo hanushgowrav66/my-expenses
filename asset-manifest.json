@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wilp-fsd-g8/static/css/main.3eac7086.css",
-    "main.js": "/wilp-fsd-g8/static/js/main.c97a7876.js",
-    "static/js/787.5852f0d6.chunk.js": "/wilp-fsd-g8/static/js/787.5852f0d6.chunk.js",
-    "index.html": "/wilp-fsd-g8/index.html",
-    "main.3eac7086.css.map": "/wilp-fsd-g8/static/css/main.3eac7086.css.map",
-    "main.c97a7876.js.map": "/wilp-fsd-g8/static/js/main.c97a7876.js.map",
-    "787.5852f0d6.chunk.js.map": "/wilp-fsd-g8/static/js/787.5852f0d6.chunk.js.map"
+    "main.css": "/my-expenses/static/css/main.adadd18c.css",
+    "main.js": "/my-expenses/static/js/main.5d6536b4.js",
+    "static/js/787.0ed5cf15.chunk.js": "/my-expenses/static/js/787.0ed5cf15.chunk.js",
+    "index.html": "/my-expenses/index.html",
+    "main.adadd18c.css.map": "/my-expenses/static/css/main.adadd18c.css.map",
+    "main.5d6536b4.js.map": "/my-expenses/static/js/main.5d6536b4.js.map",
+    "787.0ed5cf15.chunk.js.map": "/my-expenses/static/js/787.0ed5cf15.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eac7086.css",
-    "static/js/main.c97a7876.js"
+    "static/css/main.adadd18c.css",
+    "static/js/main.5d6536b4.js"
   ]
 }
